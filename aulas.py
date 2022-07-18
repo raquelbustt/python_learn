@@ -73,11 +73,22 @@
 #
 # print(frase.count())
 
-# ----------------- AULA 10 --------------
+# # ----------------- AULA 10 --------------
+#
+# nome = str(input("Qual seu nome?\n"))
+# if nome == "Raquel":
+#     print("Que nome lindo você tem!")
+# else:
+#     print("Seu nome é comum")
+# print(f"Bom dia, {nome}")
 
-nome = str(input("Qual seu nome?\n"))
-if nome == "Raquel":
-    print("Que nome lindo você tem!")
-else:
-    print("Seu nome é comum")
-print(f"Bom dia, {nome}")
+# ----------------- AULA 12 --------------
+
+# nome = str(input("Qual seu nome?\n"))
+# if nome == "Raquel":
+#     print("Que nome lindo você tem!")
+# elif nome == 'Pedro' or nome == "João" or nome == "Paulo":
+#     print("Seu nome é bem comum")
+# elif nome in "Ana Cláudia Jéssica Juliana Fabi":
+#     print("Seu nome é feminino")
+# print(f"Bom dia, {nome}")
