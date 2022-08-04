@@ -92,3 +92,17 @@
 # elif nome in "Ana Cláudia Jéssica Juliana Fabi":
 #     print("Seu nome é feminino")
 # print(f"Bom dia, {nome}")
+
+# ----------------- AULA 13 --------------
+
+print("primeiro for:")
+for c in range (1, 7):
+    print(c)
+
+print("segundo for:")
+for c in range (7, 0, -1):
+    print(c)
+
+print("terceiro for:")
+for c in range (1, 7, 2):
+    print(c)
